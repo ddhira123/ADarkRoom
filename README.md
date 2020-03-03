@@ -55,30 +55,30 @@ Setelah proses instalasi selesai, klik URL berikut di bawah yang bersesuaian den
 <table>
 <tr><th colspan=4>Available Languages</tr>
 <tr>
-	<td><a href="http://localhost:8000/?lang=zh_cn">Chinese (Simplified)</a></td>
-	<td><a href="http://localhost:8000/?lang=zh_tw">Chinese (Traditional)</a></td>
-	<td><a href="http://localhost:8000/?lang=en">English</a></td>
-	<td><a href="http://localhost:8000/?lang=fr">French</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=zh_cn">Chinese (Simplified)</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=zh_tw">Chinese (Traditional)</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=en">English</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=fr">French</a></td>
 </tr><tr>
-	<td><a href="http://localhost:8000/?lang=de">German</a></td>
-	<td><a href="http://localhost:8000/?lang=el">Greek</a></td>
-	<td><a href="http://localhost:8000/?lang=id">Indonesian</a></td>
-	<td><a href="http://localhost:8000/?lang=it">Italian</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=de">German</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=el">Greek</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=id">Indonesian</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=it">Italian</a></td>
 </tr><tr>
-	<td><a href="http://localhost:8000/?lang=ja">Japanese</a></td>
-	<td><a href="http://localhost:8000/?lang=ko">Korean</a></td>
-	<td><a href="http://localhost:8000/?lang=nb">Norwegian</a></td>
-	<td><a href="http://localhost:8000/?lang=pl">Polish</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=ja">Japanese</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=ko">Korean</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=nb">Norwegian</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=pl">Polish</a></td>
 </tr><tr>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=pt">Portuguese</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=pt_br">Portuguese (Brazil)</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=ru">Russian</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=es">Spanish</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=pt">Portuguese</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=pt_br">Portuguese (Brazil)</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=ru">Russian</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=es">Spanish</a></td>
 </tr><tr>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=sv">Swedish</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=th">Thai</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=tr">Turkish</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=uk">Ukrainian</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=sv">Swedish</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=th">Thai</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=tr">Turkish</a></td>
+	<td><a href="http://localhost:8000/adarkroom/?lang=uk">Ukrainian</a></td>
 </tr><tr>
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=vi">Vietnamese</a></td>
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=lt_LT">Lithuanian</a></td>
