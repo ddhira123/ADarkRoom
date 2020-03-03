@@ -16,7 +16,7 @@
 > Disclaimer: Panduan instalasi yang disediakan hanya untuk kebutuhan local
 
 #### Kebutuhan Sistem :
-- Linux.
+- Linux / UNIX / Windows.
 - Apache Web server 1.3+.
 - RAM minimal 64 Mb+
 
