@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt get update
+sudo apt-get update
 
 #Install SSH
 sudo apt-get install ssh -y
