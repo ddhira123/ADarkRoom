@@ -98,7 +98,8 @@ Setelah proses instalasi selesai, klik URL berikut di bawah yang bersesuaian den
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-Game A Dark Room adalah permainan berbasis browser dengan `progressive gameplay` yang memiliki beberapa kelebihan sebagai berikut:
+
+Game A Dark Room adalah permainan berbasis browser dengan *progressive gameplay* yang memiliki beberapa kelebihan sebagai berikut:
 
 * Game ini cocok bagi orang-orang yang lebih mementingkan jalan cerita daripada grafik, karena tampilan game tersebut hanya berupa text sederhana hasil keluaran HTML.
 * Instalasi game sangat cepat, dan ukuran game tidak terlalu besar
@@ -106,10 +107,13 @@ Game A Dark Room adalah permainan berbasis browser dengan `progressive gameplay`
 * Dapat melakukan autosave apabila browser yang digunakan ditutup
 
 Beberapa kekurangan yang terdapat dalam game ini:
-* `User Interface` yang sangat minimalis, dapat membuat beberapa orang cepat merasa bosan
+* *User Interface* yang sangat minimalis, dapat membuat beberapa orang cepat merasa bosan
 * Beberapa jalan cerita ada yang diulang berkali-kali sehingga terkesan monoton
 * Perkembangan jalan cerita dirasa cukup lambat
 
+Jika dibandingkan dengan game *text-based role playing game* seperti **The Dreamhold**, terdapat beberapa perbedaan sebagai berikut:
+* **The Dreamhold** hanya bisa dimainkan pada platform IOS saja, sehingga tidak terlalu banyak fleksibilitas yang dapat diberikan kepada pemain.
+* **The Dreamhold** sudah memiliki UI yang lebih menarik daripada **A Dark Room** meskipun masih terbilang sederhana
 
 
 # Referensi
