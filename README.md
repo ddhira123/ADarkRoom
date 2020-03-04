@@ -8,7 +8,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**ADarkRoom** adalah sebuah aplikasi permainan bertema petualangan (*adventure*) gratis dan *open source*. Tujuan (*Objectives*) dari aplikasi permainan ini adalah tentang bagaimana pemain akan bertahan hidup dari berbagai situasi yang mungkin terjadi. Aplikasi permainan **ADarkRoom** ini memiliki teknis permainan (*gameplay*) layaknya aplikasi permainan ber-*genre* *visual novel*, dimana setiap tindakan yang dipilih akan menentukan kondisi selanjutnya. 
+**ADarkRoom** adalah sebuah aplikasi permainan bertema petualangan (*adventure*) gratis dan *open source*. Tujuan (*Objectives*) dari aplikasi permainan ini adalah tentang bagaimana pemain akan bertahan hidup dari berbagai situasi yang mungkin terjadi. Aplikasi permainan **ADarkRoom** ini memiliki teknis permainan (*gameplay*) layaknya aplikasi permainan ber-*genre* *visual novel*, dimana setiap tindakan yang dipilih akan menentukan kondisi selanjutnya. Saat ini, aplikasi permainan **ADarkRoom** sudah tersedia dalam 23 bahasa.
 
 
 # Instalasi
@@ -50,15 +50,6 @@
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-1. Permainan akan dimulai dengan tampilan yang sangat sederhana, hanya terdapat 1 tombol yang dapat pemain klik, namun permainan baru saja dimulai!
-
-![Gameplay A Dark Room](https://i.ibb.co/PQJLfFJ/a-dark-room.png)
-
-2. Cerita akan semakin menegangkan, banyak fitur-fitur baru yang sudah mulai dapat digunakan oleh pemain sehingga menambah seru permainan.
-
-![Gameplay1 A Dark Room](https://i.ibb.co/6NnsgLK/upd.png)
-
-3. Semakin lama pemain dalam memainkan game, akan semakin banyak juga cerita dan fitur yang akan muncul dan dapat dimainkan.
 
 Setelah proses instalasi selesai, klik URL berikut di bawah yang bersesuaian dengan bahasa yang ingin anda gunakan dalam permainan.
 
@@ -95,6 +86,18 @@ Setelah proses instalasi selesai, klik URL berikut di bawah yang bersesuaian den
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=gl">Galician</a></td>
 </tr>
 </table>
+
+## GamePlay
+1. Permainan akan dimulai dengan tampilan yang sangat sederhana, hanya terdapat 1 tombol yang dapat pemain klik, namun permainan baru saja dimulai!
+
+![Gameplay A Dark Room](https://i.ibb.co/PQJLfFJ/a-dark-room.png)
+
+2. Cerita akan semakin menegangkan, banyak fitur-fitur baru yang sudah mulai dapat digunakan oleh pemain sehingga menambah seru permainan.
+
+![Gameplay1 A Dark Room](https://i.ibb.co/6NnsgLK/upd.png)
+
+3. Semakin lama pemain dalam memainkan game, akan semakin banyak juga cerita dan fitur yang akan muncul dan dapat dimainkan.
+
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
