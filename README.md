@@ -127,6 +127,7 @@ Jika dibandingkan dengan game *text-based role playing game* seperti **The Dream
 * **The Dreamhold** hanya bisa dimainkan pada platform IOS saja, sehingga tidak terlalu banyak fleksibilitas yang dapat diberikan kepada pemain.
 * **The Dreamhold** sudah memiliki UI yang lebih menarik daripada **A Dark Room** meskipun masih terbilang sederhana
 
+![](https://i.ibb.co/TBggQKZ/dreamhold3.jpg)
 
 # Referensi
 [`^ kembali ke atas ^`](#)
