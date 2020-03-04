@@ -1,8 +1,8 @@
 ![A Dark Room](https://github.com/doublespeakgames/adarkroom/blob/master/img/Logo1.jpg)
 # ADarkRoom
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:
 
 
 # Sekilas Tentang
@@ -21,7 +21,7 @@
 - Apache Web server 1.3+.
 - RAM minimal 64 Mb+
 
-#### Proses Instalasi :
+#### Proses Instalasi (*manual installation*) :
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/).
     ```
     $ ssh [nama_user]@[nama_host] -p 22
@@ -46,7 +46,17 @@
     $ sudo mv ./adarkroom/ /var/www/html/
     ```
     
-5. Instalasi telah selesai. :)
+5. Instalasi telah selesai. *Game* **ADarkRoom** siap untuk dimainkan. Klik [disini](#cara-pemakaian) untuk mulai bermain sesuai pilihan bahasa Anda.
+
+# Otomatisasi
+[`^ kembali ke atas ^`](#)
+
+Anda dapat melakukan instalasi secara otomatis dengan menjalankan *script* shell `setup.sh` yang telah disediakan.
+> Pastikan seluruh *library* Anda sudah *up-to-date* sebelum menjalankan *script*.
+Anda dapat menjalankan perintah di bawah ini pada terminal setelah Anda *logged in* ke dalam server (melalui SSH):
+```
+	$ sudo apt-get update
+```
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
