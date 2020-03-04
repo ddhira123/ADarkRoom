@@ -4,6 +4,25 @@
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:
 
+# Anggota Kelompok
+<table>
+<tr>
+	<td>Nama</td>
+	<td>NIM</td>
+</tr>
+<tr>
+	<td>Dhana Dhira</td>
+	<td>G64170075</td>
+</tr>
+<tr>
+	<td>Julius Christoper Siswanto</td>
+	<td>G64170097</td>
+</tr>
+<tr>
+	<td>Jimmi Afriando Akbar</td>
+	<td>G64170005</td>
+</tr>
+</table>
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
