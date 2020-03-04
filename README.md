@@ -19,7 +19,8 @@
 #### Kebutuhan Sistem :
 - Linux / UNIX / Windows.
 - Apache Web server 1.3+.
-- RAM minimal 64 Mb+
+- HTML5
+- PHP
 
 #### Proses Instalasi (*manual installation*) :
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/).
