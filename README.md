@@ -54,9 +54,9 @@
 Anda dapat melakukan instalasi secara otomatis dengan menjalankan *script* shell `setup.sh` yang telah disediakan.
 > Pastikan seluruh *library* Anda sudah *up-to-date* sebelum menjalankan *script*.
 Anda dapat menjalankan perintah di bawah ini pada terminal setelah Anda *logged in* ke dalam server (melalui SSH):
-```
+	```
 	$ sudo apt-get update
-```
+	```
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
